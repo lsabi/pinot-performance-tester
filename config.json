@@ -1,0 +1,12 @@
+{
+    "base_url": "http://localhost",
+    "tests": [
+        {
+            "method": "GET",
+            "endpoint": "/api/endpoint",
+            "data": {},
+            "status_code": 200,
+            "result": {}
+        }
+    ]
+}
